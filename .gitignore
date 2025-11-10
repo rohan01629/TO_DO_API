@@ -1,0 +1,9 @@
+# dependencies
+node_modules/
+
+# environment files
+.env
+.env.*        # like .env.local, .env.production
+
+# if you ever store tokens here
+.npmrc
